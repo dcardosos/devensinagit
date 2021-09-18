@@ -1,0 +1,1 @@
+print("o lott é lindo, tanquinho do lott")
